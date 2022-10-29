@@ -135,15 +135,12 @@
 
 .quote {
     background-color: #E5E7EB;
-    padding: 100px 0px;
+    padding: 100px 255px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.quote-container {
-    width: 790px;
-}
 
 .quote-text {
     font-size: 36px;
