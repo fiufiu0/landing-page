@@ -157,11 +157,50 @@
 }
 
 
+/* CALL TO ACTION */
 
+.call-to-action {
+    padding: 70px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.cta-square {
+    width: 950px;
+    border-radius: 9px;
+    background-color: #3882F6;
+    color: #fff;
+    padding: 50px 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.cta-text {
+    font-size: 22px;
+}
 
+.cta-left p {
+    color: #E5E7EB;
+}
 
+.cta-button {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    border: 2px solid #fff;
+    padding: 7px 30px;
+    border-radius: 8px;
+}
+
+.cta-button:hover {
+    color: #3882F6;
+    background-color: #fff;
+}
+
+/* FOOTER  */
 
 footer {
     display: flex;
