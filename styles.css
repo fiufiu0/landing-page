@@ -78,6 +78,13 @@
     border-radius: 8px;
 }
 
+.cta:hover {
+    color: #3882F6;
+    background-color: #fff;
+    border: 2px solid #3882F6;
+    padding: 8px 33px;
+}
+
 .main-right {
     width: 500px;
     background-color: #E5E7EB;
